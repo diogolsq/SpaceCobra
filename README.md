@@ -1,6 +1,10 @@
 # SpaceCobra #
 Simple Snake Game done using Ruby language and Gosu GUI
 
+## Visuals ##
+
+![Alt Text](http://g.recordit.co/AjtvUfQGhS.gif)
+
 ## Setup ##
 Proceed to fork and clone the repository
 
@@ -20,6 +24,3 @@ arrow left - go left
 
 arrow right - go right
 
-## Visuals ##
-
-![Alt Text](http://g.recordit.co/AjtvUfQGhS.gif)
